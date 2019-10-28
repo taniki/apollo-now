@@ -3,3 +3,11 @@
 [Apollo Server](https://www.apollographql.com/docs/apollo-server/) + [Now](https://zeit.co)
 
 Starting point for Grapql Server with a data source.
+
+## Query
+
+```Grapql
+{
+    yesNo
+}
+```
